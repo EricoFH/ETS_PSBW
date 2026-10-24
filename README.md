@@ -6,9 +6,9 @@ InvenTrack membantu pemilik toko mencatat dan memantau stok barang dalam satu ap
 
 ## Fitur
 
-- Dashboard ringkasan: jumlah jenis barang, total stok, nilai inventori, dan grafik stok per kategori
+- Dashboard ringkasan berisi jumlah jenis barang, total stok, nilai inventori, dan grafik stok per kategori
 - Notifikasi otomatis saat stok menipis
-- Kelola data barang: lihat, cari, tambah, edit, dan hapus
+- Kelola data barang berisi lihat, cari, tambah, edit, dan hapus
 - Validasi isian form agar data tetap rapi
 - Halaman profil kelompok
 
