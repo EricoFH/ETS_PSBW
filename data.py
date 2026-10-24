@@ -1,6 +1,4 @@
 # data.py
-# Data contoh (dummy) untuk prototipe. Disimpan di memori, jadi akan kembali
-# ke kondisi awal setiap kali server Flask dijalankan ulang.
 
 KATEGORI = ["Alat Tulis", "Kertas", "Perlengkapan Kantor", "Elektronik"]
 
@@ -17,7 +15,7 @@ BARANG = [
     {"id": 10, "kode": "BRG-010", "nama": "Kertas Foto A4 (pak)", "kategori": "Kertas", "stok": 14, "stok_min": 10, "harga": 38000},
 ]
 
-# Identitas kelompok (ganti sesuai kelompokmu)
+# Identitas
 KELOMPOK = {
     "mata_kuliah": "Pengembangan Sistem Berbasis Web",
     "anggota": [
