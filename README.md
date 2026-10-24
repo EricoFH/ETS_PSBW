@@ -20,6 +20,10 @@ InvenTrack membantu pemilik toko mencatat dan memantau stok barang dalam satu ap
 
 Tidak perlu instalasi tambahan.
 
+## Download
+
+[Unduh Disini](https://github.com/EricoFH/ETS_PSBW/archive/refs/heads/main.zip)
+
 ## Catatan
 
 - Ini adalah prototipe, sehingga data barang yang diubah tidak tersimpan setelah aplikasi ditutup.
