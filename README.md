@@ -25,12 +25,6 @@ Tidak perlu instalasi tambahan.
 - Ini adalah prototipe, sehingga data barang yang diubah tidak tersimpan setelah aplikasi ditutup.
 - Aplikasi berjalan di Windows 10/11.
 
-## Tim
-
-| Nama | NRP | Peran |
-|---|---|---|
-| (isi) | (isi) | (isi) |
-
 ## Lisensi
 
 Menggunakan template SB Admin 2 (Start Bootstrap, lisensi MIT).
